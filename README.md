@@ -1,6 +1,6 @@
 # ETOgaosion's Home
 
-My Personal Blog is Here: (etogaosion.github.io)[https://etogaosion.github.io], and I am designing [arknights theme](https://github.com/ETOgaosion/hugo-theme-arknights) for it.
+My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), and I am designing [arknights theme](https://github.com/ETOgaosion/hugo-theme-arknights) for it.
 
 <div>
   <a href="https://etogaosion.github.io"><img src="https://github-readme-stats.vercel.app/api?username=ETOgaosion&theme=ambient_gradient&show_icons=true?count_private=true&hide=contribs" /></a>
