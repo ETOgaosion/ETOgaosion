@@ -16,10 +16,10 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=000000"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=000000"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=000000" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=000000" />
     </picture>
   </a>
 </div>
@@ -40,10 +40,10 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=ffffff"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=ffffff"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=ffffff" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=ffffff" />
     </picture>
   </a>
 </div>
@@ -56,10 +56,10 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=000000"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=000000" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76" />
     </picture>
   </a>
   <text>&nbsp;</text>
@@ -69,10 +69,10 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76" />
     </picture>
   </a>
 </div>
@@ -85,10 +85,10 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76" />
     </picture>
   </a>
   <text>&nbsp;</text>
@@ -98,10 +98,10 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76" />
     </picture>
   </a>
 </div>
