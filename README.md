@@ -96,14 +96,14 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
   <a href="https://github.com/ETOgaosion/InfiniteNoteBook">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=22222200&border_color=30363d&title_color=2f81f7&text_color=848d97"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=22222200&border_color=d0d7de&title_color=2f81f7&text_color=656d76"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=22222200&border_color=d0d7de&title_color=2f81f7&text_color=656d76" />
     </picture>
   </a>
 </div>
