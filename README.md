@@ -76,3 +76,32 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
     </picture>
   </a>
 </div>
+
+<div>
+  <a href="https://github.com/ETOgaosion/Linux-0.11-MacOS">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&theme=default_repocard"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&theme=default_repocard" />
+    </picture>
+  </a>
+  <text>&nbsp;</text>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&theme=default_repocard"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&theme=default_repocard" />
+    </picture>
+  </a>
+</div>
