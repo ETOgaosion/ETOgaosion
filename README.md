@@ -12,14 +12,14 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
   <a href="https://etogaosion.github.io">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&theme=github_dark"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=ffffff"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=000000"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=000000" />
     </picture>
   </a>
 </div>
@@ -36,14 +36,14 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
   <a href="https://github.com/ETOgaosion/ETOgaosion.github.io">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&theme=github_dark"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&theme=default_repocard"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=ffffff"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&theme=default_repocard" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=ffffff" />
     </picture>
   </a>
 </div>
@@ -52,27 +52,27 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
   <a href="https://github.com/ETOgaosion/nemu">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&theme=github_dark"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=ffffff"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&theme=default_repocard"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=000000"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&theme=default_repocard" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=000000" />
     </picture>
   </a>
   <text>&nbsp;</text>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&theme=github_dark"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&theme=default_repocard"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&theme=default_repocard" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76" />
     </picture>
   </a>
 </div>
@@ -81,27 +81,27 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
   <a href="https://github.com/ETOgaosion/Linux-0.11-MacOS">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&theme=github_dark"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&theme=default_repocard"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&theme=default_repocard" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=Linux-0.11-MacOS&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76" />
     </picture>
   </a>
   <text>&nbsp;</text>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&theme=github_dark"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&theme=default_repocard"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&theme=default_repocard" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=656d76" />
     </picture>
   </a>
 </div>
