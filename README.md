@@ -63,6 +63,7 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
     </picture>
   </a>
   <text>&nbsp;</text>
+  <a href="https://github.com/ETOgaosion/550W-OSKernel">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
@@ -92,6 +93,7 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
     </picture>
   </a>
   <text>&nbsp;</text>
+  <a href="https://github.com/ETOgaosion/InfiniteNoteBook">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=InfiniteNoteBook&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
