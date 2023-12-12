@@ -52,7 +52,7 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
   <a href="https://github.com/ETOgaosion/nemu">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=ffffff"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=nemu&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
         media="(prefers-color-scheme: dark)"
       />
       <source
