@@ -12,14 +12,14 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
   <a href="https://etogaosion.github.io">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=ffffff"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=000000"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=000000" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETOgaosion&layout=compact&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76" />
     </picture>
   </a>
 </div>
