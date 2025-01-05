@@ -33,17 +33,17 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
     </picture>
   </a>
   <text>&nbsp;</text>
-  <a href="https://github.com/ETOgaosion/ETOgaosion.github.io">
+  <a href="https://github.com/ETOgaosion/550W-OSKernel">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=ffffff"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=ETOgaosion.github.io&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=ffffff" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76" />
     </picture>
   </a>
 </div>
@@ -63,17 +63,17 @@ My Personal Blog is Here: [etogaosion.github.io](https://etogaosion.github.io), 
     </picture>
   </a>
   <text>&nbsp;</text>
-  <a href="https://github.com/ETOgaosion/550W-OSKernel">
+  <a href="https://github.com/ETOgaosion/12306">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=12306&bg_color=00000000&border_color=30363d&title_color=2f81f7&text_color=848d97"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=12306&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=ffffff"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=550W-OSKernel&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=656d76" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ETOgaosion&repo=12306&bg_color=00000000&border_color=d0d7de&title_color=2f81f7&text_color=ffffff" />
     </picture>
   </a>
 </div>
